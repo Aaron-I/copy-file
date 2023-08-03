@@ -29,7 +29,8 @@ with open('/content/drive/My Drive/p1.txt','w') as g:
 ```
 ### OUTPUT:
 ![output](/Screenshot%202023-07-26%20144910.png)
-
+![output](/screenshot2.png)
+![output](/screenshot3.png)
 
 
 ## RESULT:
